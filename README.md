@@ -1,2 +1,2 @@
 # ML-Stacking-Votingclassifier-Mlxtend-Vecstack
-Machine Learning - Stacking through Voting Classifier, Mlxtend, Vecstack
+MachineLearning - Stacking through Voting classifier, Mlxtend, Vecstack
